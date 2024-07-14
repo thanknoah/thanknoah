@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thanknoah
-- 👀 I’m interested in web developing and software engineering
-- 🌱 I’m currently learning symfony, react and java
-- 💞️ I’m looking to collaborate on discord, https://thenoahdevs.com
-- 📫 How to reach me soul123#1396
+- 👋 Hi, I’m @thanknoah (mainly backend developer)
+- 👀 I’m interested in Web Development, Software Development, Backend
+- 🌱 I’m currently learning C#, React
+- 💞️ Technologies I use / I know: PHP, NodeJS, MySQL, Python (not including data science, machine learning), C#
+- 📫 My portofolio: https://thenoahdevs.com
 
 <!---
 stop reading ok lol
