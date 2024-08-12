@@ -4,6 +4,8 @@
 - 💞️ Technologies I use / I know: C#, PHP, NodeJS, MySQL, Python
 - 📫 My portofolio: https://thenoahdevs.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanknoah&hide=javascript,css,scss,html&theme=tokyonight)
+
 <!---
 stop reading ok lol
 --->
