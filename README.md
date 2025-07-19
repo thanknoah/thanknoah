@@ -1,4 +1,4 @@
-👋 Hello! I am Noah, just your casual developer in high-school.
+👋 Hello! I am Noah, just your casual developer.
 
 - 🔨 I am currently developing my own little software / websites for fun. 
 - 🌐 I mainly specialise in Web Development (Front-end, backend), Software Development, Low-level applications
